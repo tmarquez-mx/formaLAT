@@ -12,14 +12,17 @@ App de formateo automático de manuscritos para revistas latinoamericanas de inv
 https://github.com/rstudio/rticles
 
 ## Justificación
-Lidear con diferentes cambios de formato en el proceso de envío de manuscritos para revisión, consume mucho tiempo y puede ser frustante.
-Por otro lado, las revistas de la Vía Diamante reducirían costos si los manuscritos se reciben en el formato final de publicación.
-La Ibero podría hacer una muy importante contribución a los esfuerzos de acceso abierto (AA) de la región
-
-## Colaboraciones
-Podría contarse con apoyo de Redalyc y su red de alianzas en la Región
+1. Para los autores, lidear con diferentes formatos en el proceso de envío de manuscritos para revisión, consume tiempo y puede ser frustante. Con formaLAT el autor solo escribe el manuscrito en su procesador de texto y podrá darle diferentes formatos de acuerdo a los criterios editoriales de las revistas a las que necesite enviarlo. 
+2. Por otro lado, las revistas de la Vía Diamante reducirían costos y tiempo de procesamiento, si los manuscritos se reciben en el formato final de publicación.
+3. Si el manuscrito es aprobado y publicado, contendrá además una segunda capa con los marcadores de las bases de datos donde se indexa la revista
+4. La Ibero podría hacer una importante contribución a los esfuerzos de acceso abierto (AA) de la región
 
 ## Etapas
-Piloto: formato para trabajos de cursos y tesis Ibero
-Lanzamiento 1: formatos para revistas mexicanas de investigación
-Lanzamiento 2: formatos para revistas latinoamericanas de investigación
+Piloto: formato para trabajos de cursos y tesis Ibero.
+
+Lanzamiento 1: formatos para revistas mexicanas de investigación.
+
+Lanzamiento 2: formatos para revistas latinoamericanas de investigación.
+
+## formaLAT | Diagrama de flujo
+![Flujo-formaLAT](https://user-images.githubusercontent.com/69394840/172638947-4cebd90c-88b1-4b57-bf18-a0193a4ed2cb.png)
