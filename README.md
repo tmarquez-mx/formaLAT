@@ -10,6 +10,8 @@ App de formateo automático de manuscritos para revistas latinoamericanas de inv
 
 2) rticles de RStudio
 https://github.com/rstudio/rticles
+3) Ulysses App
+https://ulysses.app/
 
 ## Justificación
 1. Para los autores, lidear con diferentes formatos en el proceso de envío de manuscritos para revisión, consume tiempo y puede ser frustante. Con formaLAT el autor solo escribe el manuscrito en su procesador de texto y podrá darle diferentes formatos de acuerdo a los criterios editoriales de las revistas a las que necesite enviarlo. 
