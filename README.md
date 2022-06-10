@@ -12,6 +12,10 @@ App de formateo automático de manuscritos para revistas latinoamericanas de inv
 https://github.com/rstudio/rticles
 3) Ulysses App
 https://ulysses.app/
+4) DocBook
+https://docbook.org
+5) Maquetación en Word
+https://www.ekpublishing.net/conversion-de-word-a-xml-docbook/
 
 ## Justificación
 1. Para los autores, lidear con diferentes formatos en el proceso de envío de manuscritos para revisión, consume tiempo y puede ser frustante. Con formaLAT el autor solo escribe el manuscrito en su procesador de texto y podrá darle diferentes formatos de acuerdo a los criterios editoriales de las revistas a las que necesite enviarlo. 
