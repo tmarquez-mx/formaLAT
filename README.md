@@ -19,7 +19,7 @@ https://www.ekpublishing.net/conversion-de-word-a-xml-docbook/
 
 ## Justificación
 1. Para los autores, lidear con diferentes formatos en el proceso de envío de manuscritos para revisión, consume tiempo y puede ser frustante. Con formaLAT el autor solo escribe el manuscrito en su procesador de texto y podrá darle diferentes formatos de acuerdo a los criterios editoriales de las revistas a las que necesite enviarlo. 
-2. Por otro lado, las revistas de la Vía Diamante reducirían costos y tiempo de procesamiento, si los manuscritos se reciben en el formato final de publicación.
+2. Por otro lado, las revistas de la Vía Diamante reducirían costos y tiempo de procesamiento, si los manuscritos además de un formato genérico o a través de su plataforma, en el formato o maquetado final de publicación.
 3. Si el manuscrito es aprobado y publicado, contendrá además una segunda capa con algunos marcadores de las bases de datos donde se indexa la revista (i.e. marcalyc)
 4. La Ibero podría hacer una importante contribución a los esfuerzos de acceso abierto (AA) de la región y a los principios FAIR.
 
