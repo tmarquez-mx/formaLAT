@@ -32,5 +32,6 @@ Lanzamiento 2: formatos para revistas latinoamericanas de investigación.
 
 ## formaLAT | Diagrama de flujo
 Versión actualizada: https://lucid.app/lucidchart/4a191374-eb6b-4bb2-a223-a57fb9282142/edit?invitationId=inv_d54689da-9f36-4380-9500-07a43c189166#
+<img width="782" alt="Flujo-formaLAT3" src="https://user-images.githubusercontent.com/69394840/173155316-02297b5e-5fc6-4aa1-810f-9fca8ff8eb93.png">
 
-![Flujo-formaLAT](https://user-images.githubusercontent.com/69394840/172638947-4cebd90c-88b1-4b57-bf18-a0193a4ed2cb.png)
+
