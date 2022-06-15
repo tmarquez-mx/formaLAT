@@ -1,6 +1,7 @@
 # formaLAT
 App de formateo automático de manuscritos para revistas latinoamericanas de investigación
 (pre propuesta)
+<img width="617" alt="Captura de Pantalla 2022-06-15 a la(s) 2 45 07" src="https://user-images.githubusercontent.com/69394840/173772176-436a09c7-50bb-4b70-abdf-5943043b0128.png">
 ## Inspiración: 
 1) Typeset (ahora SciSpace  https://typeset.io/)
 
