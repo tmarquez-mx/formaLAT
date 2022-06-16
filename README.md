@@ -32,7 +32,5 @@ Lanzamiento 1: formatos para revistas mexicanas de investigación.
 Lanzamiento 2: formatos para revistas latinoamericanas de investigación.
 
 ## formaLAT | Diagrama de flujo
-Versión actualizada: https://lucid.app/lucidchart/4a191374-eb6b-4bb2-a223-a57fb9282142/edit?invitationId=inv_d54689da-9f36-4380-9500-07a43c189166#
-<img width="782" alt="Flujo-formaLAT3" src="https://user-images.githubusercontent.com/69394840/173155316-02297b5e-5fc6-4aa1-810f-9fca8ff8eb93.png">
-
+![Captura de Pantalla 2022-06-16 a la(s) 0 24 43](https://user-images.githubusercontent.com/69394840/173997613-52e936bb-0aed-48c2-98a6-acba6927142f.png)
 
